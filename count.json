@@ -1,22 +1,26 @@
 {
     "aih": {
-        "last": 3676460,
-        "nome": "AIH",
+        "last": 467646, 
+        "last_digit": 7, 
+        "nome": "AIH", 
         "number": "1"
-    },
+    }, 
     "aih_e": {
-        "last": 298355,
-        "nome": "AIH ELETIVA",
+        "last": 79795, 
+        "last_digit": 7, 
+        "nome": "AIH ELETIVA", 
         "number": "5"
-    },
+    }, 
     "apac": {
-        "last": 3255488,
-        "nome": "APAC",
+        "last": 375548, 
+        "last_digit": 1, 
+        "nome": "APAC", 
         "number": "2"
-    },
+    }, 
     "apac_e": {
-        "last": 90300,
-        "nome": "APAC ELETIVA",
+        "last": 59030, 
+        "last_digit": 4, 
+        "nome": "APAC ELETIVA", 
         "number": "6"
     }
 }
